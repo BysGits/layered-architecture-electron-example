@@ -39,13 +39,13 @@ npm run start-api
 
 ```bash 
 # Terminal 2
-npm run start-static-html
+npm run dev
 ```
 
 If you want to run it all in a single terminal, execute the following command:
 
 ```bash 
-npm run all-in-one
+npm run all
 ```
 
 # Explanation 
